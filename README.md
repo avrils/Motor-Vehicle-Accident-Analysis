@@ -31,9 +31,8 @@ This analysis allowed stakeholders to quickly identify accident trends and metri
 ## Data Sources
 The datasets for this project were collected from motor vehicle accident records in the city, stored in **Azure Blob Storage**, and later ingested into **Azure Databricks** for cleaning and analysis.
 
- [Government Data Source - USA Motor Vehicle Crashes (2018-2022)
-](https://github.com/user-attachments/assets/6440a58e-988c-4dda-9526-202c2453058d)
-
+ [Government Data Source - USA Motor Vehicle Crashes (2018-2022)](https://catalog.data.gov/dataset/motor-vehicle-crashes-vehicle-information-three-year-window)
+ 
 ## Data Analysis
 The project heavily utilized SQL to identify key accident patterns, including accident frequency, location analysis, and contributing factors. Below is an example SQL query used to analyze accident hotspots:
 
