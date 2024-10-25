@@ -8,10 +8,7 @@
 3. [Features](#features)
 4. [Data Sources](#data-sources)
 5. [Data Analysis](#data-analysis)
-6. [Installation and Setup](#installation-and-setup)
-7. [Usage](#usage)
-8. [Project Status](#project-status)
-9. [Contact Information](#contact-information)
+
 
 ## Project Description
 The **Motor Vehicle Accident Analysis** project was conducted from November 2023 to December 2023 to streamline traffic safety insights using advanced data engineering and visualization techniques. The project utilized Azure Blob Storage for efficient data ingestion, followed by data exploration and cleaning in Azure Databricks. The cleaned data was then transformed and analyzed using optimized SQL queries, and the results were visualized in Power BI dashboards.
