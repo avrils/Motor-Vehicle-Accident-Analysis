@@ -1,4 +1,6 @@
 # Motor Vehicle Accident Analysis
+![image](https://github.com/user-attachments/assets/e991ea84-ff5c-412d-a4c3-5f80f32ffd16)
+
 
 ## Table of Contents
 1. [Project Description](#project-description)
